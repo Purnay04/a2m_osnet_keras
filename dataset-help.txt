@@ -1,0 +1,4 @@
+link: https://www.kaggle.com/pengcw1/market-1501
+
+download and past all folders into Market-1501-v15.09.15 folder and run label_extractor.py 
+file to create classes.txt file.
